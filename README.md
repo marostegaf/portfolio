@@ -7,4 +7,4 @@
 - CSS
 - JavaScript
 ## 💻 Projeto
-Disponível em: 🔗[Portfolio de Marcos Marostega](https://marcos-marostega-portfolio.vercel.app/)
+Disponível em: 🔗[Portfolio de Marcos Marostega](https://marostegaf.github.io/portfolio/)
